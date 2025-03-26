@@ -22,4 +22,4 @@ This project focuses on detecting faults in printed circuit boards (PCBs) using 
 
 ## 📬 Contact
 For any queries or collaborations, feel free to reach out at:
-🔗 GitHub: omk12 (https://github.com/your-github-username)
+🔗 GitHub: omk12 (https://github.com/omk12)
