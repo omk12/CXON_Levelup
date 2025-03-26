@@ -23,3 +23,7 @@ This project focuses on detecting faults in printed circuit boards (PCBs) using 
 ## 📬 Contact
 For any queries or collaborations, feel free to reach out at:
 🔗 GitHub: omk12 (https://github.com/omk12)
+
+## 📂 Dataset & Model
+You can access the dataset and trained model from the following drive link:
+[Google Drive Link](https://drive.google.com/drive/folders/1-ZQp1NnH_XsmkA6f47sSbv4YBtFMy62o?usp=drive_link)
